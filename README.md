@@ -10,7 +10,7 @@ Create an empty list
 my_list = []
 
 
-Start with an empty list to store numbers.
+Started with an empty list to store numbers.
 
 Append elements 10, 20, 30, 40
 
@@ -20,7 +20,7 @@ my_list.append(30)
 my_list.append(40)
 
 
-Add items one by one at the end of the list.
+Added items one by one at the end of the list.
 
 Insert 15 at the second position (index 1)
 
@@ -76,3 +76,13 @@ Removing elements with pop()
 Sorting lists
 
 Finding the index of an element
+
+This version now has:
+
+Bold where headings or key terms appear.
+
+Italics for explanations.
+
+Proper code blocks for Python.
+
+Clear structure, GitHub-ready ✅
